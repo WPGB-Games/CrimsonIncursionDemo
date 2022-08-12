@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: a4d4589c1b7287b489c2c70e2ac86fcd
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 484887749647472520
+    second: Armature|mech idle bake
+  - first:
+      74: 5660103337775615491
+    second: 'Armature|mech walk dwn '
+  - first:
+      74: -5235497380277922197
+    second: Armature|mech walk dwn diag left
+  - first:
+      74: 2116331379852385604
+    second: Armature|mech walk dwn diag left rev
+  - first:
+      74: -3437808748703305793
+    second: Armature|mech walk dwn diag right
+  - first:
+      74: -2096088732829982474
+    second: Armature|mech walk dwn diag right rev
+  - first:
+      74: -5600931078461472599
+    second: Armature|mech walk dwn rev
+  - first:
+      74: 1551800207767518029
+    second: Armature|mech walk fwd
+  - first:
+      74: -6446248464889283068
+    second: Armature|mech walk fwd diag left
+  - first:
+      74: 6060002286450346973
+    second: Armature|mech walk fwd diag left rev
+  - first:
+      74: 5892749486235128527
+    second: Armature|mech walk fwd diag right
+  - first:
+      74: -5631879474505184324
+    second: Armature|mech walk fwd diag right rev
+  - first:
+      74: 1351147410526166218
+    second: Armature|mech walk fwd rev
+  - first:
+      74: -3507963139184226103
+    second: Armature|mech walk left
+  - first:
+      74: -7565157434844117062
+    second: Armature|mech walk left diag left
+  - first:
+      74: 7102455175996034409
+    second: Armature|mech walk left diag left rev
+  - first:
+      74: -3663014628427227155
+    second: Armature|mech walk left diag right
+  - first:
+      74: 8629984347812114561
+    second: Armature|mech walk left diag right rev
+  - first:
+      74: 3507247218558608661
+    second: Armature|mech walk left rev
+  - first:
+      74: -7986439892728572415
+    second: Armature|mech walk right
+  - first:
+      74: 5546163967115973681
+    second: Armature|mech walk right diag left
+  - first:
+      74: -766970071421369829
+    second: Armature|mech walk right diag left rev
+  - first:
+      74: 7273075272695384176
+    second: Armature|mech walk right diag right
+  - first:
+      74: 8819906630516677936
+    second: Armature|mech walk right diag right rev
+  - first:
+      74: -5322922946830022732
+    second: Armature|mech walk right rev
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
