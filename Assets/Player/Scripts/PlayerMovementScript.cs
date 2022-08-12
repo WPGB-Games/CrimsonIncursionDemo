@@ -18,7 +18,7 @@ public class PlayerMovementScript : MonoBehaviour
 
     void Update()
     {
-        AimTowardMouse();
+       // AimTowardMouse();
 
         // Reading the Input
         float horizontal = Input.GetAxis("Horizontal");
